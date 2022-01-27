@@ -1,10 +1,10 @@
 # Bac a Sable
 
-Bonjour Mégane,
+### Bonjour Mégane,
 
 Pour commancer tu dois ouvrir le terminal en utilisant la combinaison de touches `<CMD>+<J>`
 
-Dans le terminal, entres la commande `serve`, tu obtiendras quelque chose comme:
+Une fois dans le terminal, entres la commande `serve`, tu obtiendras quelque chose comme:
 
 ```sh
 $ serve
